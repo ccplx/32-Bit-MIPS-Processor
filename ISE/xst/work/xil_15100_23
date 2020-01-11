@@ -1,0 +1,158 @@
+V3 95
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/alu.vhd" 2017/10/23.01:26:25 P.20131013
+EN work/ALU 1510590809 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/alu.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1510590810 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/alu.vhd" \
+      EN work/ALU 1510590809
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/aluAdd.vhd" 2017/10/22.14:49:07 P.20131013
+EN work/aluAdd 1510590819 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/aluAdd.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/aluAdd/Behavioral 1510590820 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/aluAdd.vhd" \
+      EN work/aluAdd 1510590819
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/aluCntl.vhd" 2017/11/11.17:18:11 P.20131013
+EN work/aluCtrl 1510590811 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/aluCntl.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/aluCtrl/Behavioral 1510590812 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/aluCntl.vhd" \
+      EN work/aluCtrl 1510590811
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/branchMux.vhd" 2017/10/23.10:54:26 P.20131013
+EN work/branchMux 1510590823 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/branchMux.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/branchMux/Behavioral 1510590824 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/branchMux.vhd" \
+      EN work/branchMux 1510590823
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/control.vhd" 2017/11/12.22:20:12 P.20131013
+EN work/control 1510590821 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/control.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/control/Behavioral 1510590822 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/control.vhd" \
+      EN work/control 1510590821
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/datamem.vhd" 2017/10/30.10:30:28 P.20131013
+EN work/datamem 1510590813 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/datamem.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/std_logic_arith 1381692177
+AR work/datamem/Behavioral 1510590814 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/datamem.vhd" \
+      EN work/datamem 1510590813
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/datapath.vhf" 2017/11/12.23:48:50 P.20131013
+EN work/datapath 1510590829 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/datapath.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/datapath/BEHAVIORAL 1510590830 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/datapath.vhf" \
+      EN work/datapath 1510590829 CP pc CP pcadd CP instmem CP regfile CP signextend \
+      CP mux32bit CP ALU CP aluCtrl CP datamem CP mux32bit3x1 CP shift2left CP aluAdd \
+      CP control CP branchMux CP AND2 CP GND CP shift2left26bit CP mux5bit3x1
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/instmem.vhd" 2017/11/13.11:32:27 P.20131013
+EN work/instmem 1510590801 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/instmem.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/instmem/Behavioral 1510590802 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/instmem.vhd" \
+      EN work/instmem 1510590801
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux32bit.vhd" 2017/10/22.19:50:01 P.20131013
+EN work/mux32bit 1510590807 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux32bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux32bit/Behavioral 1510590808 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux32bit.vhd" \
+      EN work/mux32bit 1510590807
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux32bit3x1.vhd" 2017/11/11.16:23:11 P.20131013
+EN work/mux32bit3x1 1510590815 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux32bit3x1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux32bit3x1/Behavioral 1510590816 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux32bit3x1.vhd" \
+      EN work/mux32bit3x1 1510590815
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux5bit3x1.vhd" 2017/11/12.23:14:54 P.20131013
+EN work/mux5bit3x1 1510590827 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux5bit3x1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux5bit3x1/Behavioral 1510590828 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/mux5bit3x1.vhd" \
+      EN work/mux5bit3x1 1510590827
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/pc.vhd" 2017/10/26.16:13:51 P.20131013
+EN work/pc 1510590797 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/pc.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/pc/Behavioral 1510590798 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/pc.vhd" \
+      EN work/pc 1510590797
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/pcadd.vhd" 2017/10/22.13:06:12 P.20131013
+EN work/pcadd 1510590799 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/pcadd.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/pcadd/Behavioral 1510590800 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/pcadd.vhd" \
+      EN work/pcadd 1510590799
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/regfile.vhd" 2017/10/22.12:58:43 P.20131013
+EN work/regfile 1510590803 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/regfile.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/regfile/Behavioral 1510590804 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/regfile.vhd" \
+      EN work/regfile 1510590803
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/shift2left.vhd" 2017/10/30.10:52:06 P.20131013
+EN work/shift2left 1510590817 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/shift2left.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/shift2left/Behavioral 1510590818 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/shift2left.vhd" \
+      EN work/shift2left 1510590817
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/shift2left26bit.vhd" 2017/11/12.12:00:55 P.20131013
+EN work/shift2left26bit 1510590825 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/shift2left26bit.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/shift2left26bit/Behavioral 1510590826 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/shift2left26bit.vhd" \
+      EN work/shift2left26bit 1510590825
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/signextend.vhd" 2017/10/22.17:37:19 P.20131013
+EN work/signextend 1510590805 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/signextend.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/signextend/Behavioral 1510590806 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/signextend.vhd" \
+      EN work/signextend 1510590805
+EN work/toplevel 1510549584 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/toplevel.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/toplevel/Behavioral 1510549585 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/jtypedatapath_Chris_Carlson_&_Matthew_Rheinstein/MIPS_DATAPATH/toplevel.vhd" \
+      EN work/toplevel 1510549584 CP datapath
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/alu.vhd" 2017/10/23.01:26:25 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/aluAdd.vhd" 2017/10/22.14:49:07 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/aluCntl.vhd" 2017/11/11.17:18:11 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/branchMux.vhd" 2017/10/23.10:54:26 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/control.vhd" 2017/11/12.22:20:12 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/datamem.vhd" 2017/10/30.10:30:28 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/datapath.vhf" 2017/11/12.23:48:50 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/instmem.vhd" 2017/10/30.10:30:36 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/mux32bit.vhd" 2017/10/22.19:50:01 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/mux32bit3x1.vhd" 2017/11/11.16:23:11 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/mux5bit.vhd" 2017/11/12.23:11:20 P.20131013
+EN work/mux5bit 1510546291 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/mux5bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux5bit/Behavioral 1510546292 \
+      FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/mux5bit.vhd" \
+      EN work/mux5bit 1510546291
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/mux5bit3x1.vhd" 2017/11/12.23:14:54 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/pc.vhd" 2017/10/26.16:13:51 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/pcadd.vhd" 2017/10/22.13:06:12 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/regfile.vhd" 2017/10/22.12:58:43 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/shift2left.vhd" 2017/10/30.10:52:06 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/shift2left26bit.vhd" 2017/11/12.12:00:55 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/signextend.vhd" 2017/10/22.17:37:19 P.20131013
+FL "C:/Users/Chris/Dropbox/school/engineering/digital/ece445/lab/Lab 5/MIPS_DATAPATH/toplevel.vhd" 2017/11/13.00:05:43 P.20131013
